@@ -1,1 +1,1 @@
-# app-maven
+# app-maven 1.2.3
